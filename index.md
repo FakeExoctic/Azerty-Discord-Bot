@@ -1,5 +1,3 @@
-
-
 ### Need a moderation bot? 
 This one can fit for your server
 
@@ -26,3 +24,4 @@ This one can fit for your server too!
 
 ### Dont need anything of the above but just need music?
 Then this bot is **ALSO** for you and your Discord server!
+ 
