@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# Azerty Discord Bot
+All-in one Discord bot!
 
-You can use the [editor on GitHub](https://github.com/FakeExoctic/azertyweb/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# Need a moderation bot? 
+This one can fit for your server
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Need a mostly joke-only bot?
+This one can fit for your server too!
 
-### Markdown
+# - This bot includes commands such as
+1. Ban(*the most common one)*
+2. Kick(*the most common one)*
+3. Clear(*not really that common)*
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- It also includes joke commands such as
+1. birb(;birb)
+2. captcha(;captcha [your_text] *_ INSTEAD OF SPACES IS REQUIRED*
+3. doggo(;doggo)
+4. kitty(;kitty)
+5. ;rps(;rps)
 
-```markdown
-Syntax highlighted code block
+# - You might also wanna include some Info commands such as:
+1. help(;help)
+2. ping(;ping)
+3. serverinfo(;serverinfo)
+5.whois(;whois, ;user, ;userinfo
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FakeExoctic/azertyweb/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Dont need anything of the above but just need music?
+Then this bot is **ALSO** for you and your Discord server!
